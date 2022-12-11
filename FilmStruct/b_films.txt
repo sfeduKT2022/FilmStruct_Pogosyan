@@ -1,0 +1,72 @@
+name: Lovley_Son
+producer surname: Cameron
+producer name: James
+producer middlename: Jonson
+country: USA
+year 1990
+cost: 850000$
+earnings: 1300000$
+
+name: Elki
+producer surname: Bekmambetov
+producer name: Timur
+producer middlename: Nuruahitovich
+country: Russia
+year 2010
+cost: 50000$
+earnings: 180000$
+
+name: JoJo_Bizare_Adventure
+producer surname: Araki
+producer name: Nigenindaio
+producer middlename: Araara
+country: Japan
+year 2022
+cost: 950000000$
+earnings: 1000000000$
+
+name: Lock,_Stock_&_Two_Smoking_Barrels
+producer surname: Richi
+producer name: Gai
+producer middlename: -
+country: USA
+year 1998
+cost: 15000000$
+earnings: 12000000$
+
+name: SomeFilmName
+producer surname: ProducerSurname
+producer name: Name
+producer middlename: Midleban
+country: Canada
+year 2000
+cost: 123000$
+earnings: 4322000$
+
+name: Tarzan
+producer surname: Tarrantino
+producer name: Quentin
+producer middlename: -
+country: USA
+year 2001
+cost: 230000$
+earnings: 670000$
+
+name: Sens_in_big_city
+producer surname: Unknown
+producer name: James
+producer middlename: Williams
+country: Austria
+year 1970
+cost: 1500$
+earnings: 1300$
+
+name: I_Dont_know
+producer surname: Flaming
+producer name: Jason
+producer middlename: Flatcher
+country: Germany
+year 1945
+cost: 245000$
+earnings: 340000$
+
