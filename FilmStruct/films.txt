@@ -1,8 +1,7 @@
-Lovley_Son,Cameron,James,Jonson,USA,1990,850000,1300000
-Elki,Bekmambetov,Timur,Nuruahitovich,Russia,2010,50000,180000
-JoJo_Bizare_Adventure,Araki,Nigenindaio,Araara,Japan,2022,950000000,1000000000
-Lock,_Stock_&_Two_Smoking_Barrels,Richi,Gai,-,USA,1998,15000000,12000000
-SomeFilmName,ProducerSurname,Name,Midleban,Canada,2000,123000,4322000
-Tarzan,Tarrantino,Quentin,-,USA,2001,230000,670000
-Sens_in_big_city,Unknown,James,Williams,Austria,1970,1500,1300
-I_Dont_know,Flaming,Jason,Flatcher,Germany,1945,245000,340000
+JoJo_Bizare_Adventure,Naraki,Uko,San,Japan,2005,150000,490000
+Lovley_son,Cameron,James,Jonson,USA,1980,900500,1000000
+Avatar,Cameron,James,Jonson,USA,2022,3500000,6400000
+Spider-Man-3_Enemy_in_the_Mirror,Parker,Simpson,David,Canada,2003,2100000,3500000
+Bad_Boys,Wach,Youcana,Do,USA,1992,650000,1300000
+Bad_Boys2,Wach,Youcana,Do,USA,1994,750000,1500000
+
