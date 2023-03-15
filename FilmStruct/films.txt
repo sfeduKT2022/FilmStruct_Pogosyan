@@ -5,3 +5,5 @@ Spider-Man-3_Enemy_in_the_Mirror,Parker,Simpson,David,Canada,2003,2100000,350000
 Bad_Boys,Wach,Youcana,Do,USA,1992,650000,1300000
 Bad_Boys2,Wach,Youcana,Do,USA,1994,750000,1500000
 
+Pulp_Fiction,Quentin_Tarrantino,///,///,USA,1994,12000,12020000
+Vash_me,John,David,Nealson,Canada,1990,152000,12000112
